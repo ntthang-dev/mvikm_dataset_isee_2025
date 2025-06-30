@@ -1,7 +1,7 @@
 # The Definitive Grid Scenario Dataset (Version 1.0)
 
 **Date Created:** June 26, 2025  
-**Authors:** [N.T.THANG - HCMUT]  
+**Authors:** [N.T.THANG/N.P.KHAI - HCMUT]  
 **Contact:** [@ntthang-dev]
 
 ---

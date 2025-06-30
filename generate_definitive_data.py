@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------------------
-# Copyright (c) 2025 [N.T.THANG]
+# Copyright (c) 2025 [N.T.THANG/N.P.KHAI]
 # HO Chi Minh City University of Technology (HCMUT) - Vietnam National University (VNU)
 # Department of Electrical and Electronics Engineering
 # MVIKM ISEE 2025 Dataset Generator
@@ -10,7 +10,7 @@
 # Unauthorized copying of this file, via any medium is strictly prohibited.
 # Proprietary and confidential.
 #
-# Author: [N.T.THANG - HCMUT]
+# Author: [N.T.THANG/N.P.KHAI - HCMUT]
 # License: [Apache License, Version 2.0]
 # -----------------------------------------------------------------------------
 
